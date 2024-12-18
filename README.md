@@ -1,8 +1,8 @@
-# Multimodal-RAG-Chat-App
+# Multimodal-Smart-Chat-Assistant-App
 
 ## Introduction
 
-Welcome to the Multimodal RAG Chatbot project! This chatbot is designed to interact with users about the data files they upload, supporting various modalities such as text, audio, and video. By leveraging Retrieval-Augmented Generation (RAG), our chatbot provides accurate and contextually relevant responses, enhancing user interaction and experience.
+Welcome to the Multimodal Smart Chat Assistant App! This chat assistant is designed to interact with users about the data files they upload, supporting various modalities such as text, audio, and video. By leveraging Retrieval-Augmented Generation (RAG), our chatbot provides accurate and contextually relevant responses, enhancing user interaction and experience.
 
 The primary objective of this project is to create a versatile and user-friendly chatbot capable of handling multiple data formats. Whether you need to analyze text documents, transcribe audio files, or extract information from videos, this chatbot is equipped to assist you effectively.
 
@@ -174,4 +174,4 @@ Users can easily switch between 2 modes by a top left toggle.
 
 For any questions, please contact me at:
 
-- Email: Buitanphuong712@gmail.com
+- Email: dhamo0085@gmail.com
