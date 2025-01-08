@@ -36,7 +36,7 @@ To get started with Multimodal RAG Chatbot, follow these simple steps:
 **1. Clone this prject**
 
 ```bash
-git clone https://github.com/Leon-Sander/local_multimodal_ai_chat.git
+git clone https://github.com/Dhamo0085/Multimodal-Smart-Chat-Assistant-using-RAG.git
 ```
 
 **2. Install Python environments**
